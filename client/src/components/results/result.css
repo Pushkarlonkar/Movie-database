@@ -1,0 +1,11 @@
+.poster{
+    height: 400px;
+}
+.title{
+    max-height: 40px;
+}
+
+.poster-inside{
+    max-width: 200px;
+    max-height: auto;
+}
